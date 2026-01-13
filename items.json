@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Keychron K2 V2",
+    "price": 89,
+    "category": "Keyboard",
+    "brand": "Keychron",
+    "stock": 15,
+    "rating": 4.8,
+    "description": "The Keychron K2 V2 is a 75% layout wireless mechanical keyboard designed for both productivity and gaming. It supports Bluetooth and wired USB-C connections, allowing seamless switching between multiple devices. Built with high-quality Gateron mechanical switches, it provides a satisfying typing experience with long durability. The keyboard also features customizable RGB backlighting, Mac and Windows compatibility, and a compact form factor ideal for desk setups with limited space.",
+    "image": "https://images.unsplash.com/photo-1595225405013-9897ec9533f9?w=500"
+  },
+  {
+    "id": 2,
+    "name": "Logitech MX Master 3S",
+    "price": 99,
+    "category": "Mouse",
+    "brand": "Logitech",
+    "stock": 20,
+    "rating": 4.9,
+    "description": "The Logitech MX Master 3S is an advanced wireless mouse built for professionals and power users. It features ultra-fast MagSpeed scrolling, an ergonomic shape for all-day comfort, and highly precise tracking on almost any surface, including glass. With customizable buttons and support for multiple devices, it is ideal for designers, developers, and office professionals who demand efficiency and comfort.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500"
+  },
+  {
+    "id": 3,
+    "name": "Razer BlackWidow V3",
+    "price": 139,
+    "category": "Keyboard",
+    "brand": "Razer",
+    "stock": 10,
+    "rating": 4.6,
+    "description": "The Razer BlackWidow V3 is a full-sized mechanical gaming keyboard designed for competitive performance. It comes equipped with Razer Green mechanical switches that offer tactile and clicky feedback. The keyboard includes customizable RGB lighting powered by Razer Chroma, durable aluminum construction, and programmable keys, making it a reliable choice for serious gamers.",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=500"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "price": 349,
+    "category": "Headphone",
+    "brand": "Sony",
+    "stock": 8,
+    "rating": 4.9,
+    "description": "Sony WH-1000XM5 headphones deliver industry-leading noise cancellation combined with exceptional sound quality. Designed for travel and daily use, these wireless headphones feature adaptive sound control, crystal-clear call quality, and up to 30 hours of battery life. The lightweight design and soft ear cushions ensure maximum comfort during extended listening sessions.",
+    "image": "https://images.unsplash.com/photo-1618367588411-dc7dbdcbf42b?w=500"
+  },
+  {
+    "id": 5,
+    "name": "Apple Magic Mouse 2",
+    "price": 79,
+    "category": "Mouse",
+    "brand": "Apple",
+    "stock": 12,
+    "rating": 4.5,
+    "description": "The Apple Magic Mouse 2 is a sleek and minimal wireless mouse designed specifically for macOS users. It features a multi-touch surface that allows users to swipe and scroll effortlessly. With a rechargeable battery and seamless Bluetooth connectivity, it offers a smooth and intuitive user experience while maintaining Apple’s signature design aesthetic.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500"
+  },
+  {
+    "id": 6,
+    "name": "SteelSeries Apex Pro",
+    "price": 199,
+    "category": "Keyboard",
+    "brand": "SteelSeries",
+    "stock": 7,
+    "rating": 4.7,
+    "description": "The SteelSeries Apex Pro is a premium mechanical keyboard featuring adjustable OmniPoint switches that allow users to customize actuation distance. It includes an integrated OLED smart display, aircraft-grade aluminum frame, and per-key RGB illumination. This keyboard is ideal for gamers who want ultimate control and customization.",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=500"
+  },
+  {
+    "id": 7,
+    "name": "Corsair Dark Core RGB Pro",
+    "price": 89,
+    "category": "Mouse",
+    "brand": "Corsair",
+    "stock": 14,
+    "rating": 4.6,
+    "description": "The Corsair Dark Core RGB Pro is a high-performance wireless gaming mouse featuring customizable RGB lighting and a comfortable ergonomic design. It supports both Bluetooth and Slipstream wireless technology, ensuring low latency and reliable connectivity. Ideal for FPS and MMO gamers alike.",
+    "image": "https://images.unsplash.com/photo-1629429407756-446d56f94b52?w=500"
+  },
+  {
+    "id": 8,
+    "name": "HyperX Cloud II",
+    "price": 99,
+    "category": "Headphone",
+    "brand": "HyperX",
+    "stock": 18,
+    "rating": 4.7,
+    "description": "The HyperX Cloud II is a popular gaming headset known for its comfort and sound quality. It features memory foam ear cushions, a durable aluminum frame, and virtual 7.1 surround sound. This headset is suitable for long gaming sessions, streaming, and online communication.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500"
+  },
+  {
+    "id": 9,
+    "name": "Dell UltraSharp U2723QE",
+    "price": 579,
+    "category": "Monitor",
+    "brand": "Dell",
+    "stock": 6,
+    "rating": 4.8,
+    "description": "The Dell UltraSharp U2723QE is a 27-inch 4K IPS monitor designed for professionals who need accurate color reproduction. It offers excellent brightness, contrast, and wide viewing angles. With USB-C connectivity and a sleek design, it is perfect for designers, video editors, and developers.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500"
+  },
+  {
+    "id": 10,
+    "name": "Logitech G Pro X",
+    "price": 129,
+    "category": "Headphone",
+    "brand": "Logitech",
+    "stock": 9,
+    "rating": 4.6,
+    "description": "Logitech G Pro X is a professional-grade gaming headset developed in collaboration with esports athletes. It features Blue VO!CE microphone technology, premium sound drivers, and a comfortable build. Ideal for competitive gaming and streaming.",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500"
+  },
+  {
+    "id": 11,
+    "name": "Keychron Q1 Pro",
+    "price": 199,
+    "category": "Keyboard",
+    "brand": "Keychron",
+    "stock": 5,
+    "rating": 4.9,
+    "description": "The Keychron Q1 Pro is a premium custom mechanical keyboard built with a full CNC-machined aluminum body. It supports both wireless and wired modes, hot-swappable switches, and customizable key mapping. Designed for enthusiasts who value build quality and typing experience.",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=500"
+  },
+  {
+    "id": 12,
+    "name": "Anker Soundcore Life Q30",
+    "price": 79,
+    "category": "Headphone",
+    "brand": "Anker",
+    "stock": 22,
+    "rating": 4.5,
+    "description": "The Anker Soundcore Life Q30 offers hybrid active noise cancellation with multiple modes for indoor, outdoor, and transport use. With up to 40 hours of battery life and rich sound quality, it delivers excellent value for everyday listening and travel.",
+    "image": "https://images.unsplash.com/photo-1618367588411-dc7dbdcbf42b?w=500"
+  }
+]
