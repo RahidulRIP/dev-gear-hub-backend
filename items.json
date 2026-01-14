@@ -41,7 +41,7 @@
     "stock": 8,
     "rating": 4.9,
     "description": "Sony WH-1000XM5 headphones deliver industry-leading noise cancellation combined with exceptional sound quality. Designed for travel and daily use, these wireless headphones feature adaptive sound control, crystal-clear call quality, and up to 30 hours of battery life. The lightweight design and soft ear cushions ensure maximum comfort during extended listening sessions.",
-    "image": "https://images.unsplash.com/photo-1618367588411-dc7dbdcbf42b?w=500"
+    "image": "https://i.ibb.co.com/0yxsSzz5/item-4.jpg"
   },
   {
     "id": 5,
@@ -74,7 +74,7 @@
     "stock": 14,
     "rating": 4.6,
     "description": "The Corsair Dark Core RGB Pro is a high-performance wireless gaming mouse featuring customizable RGB lighting and a comfortable ergonomic design. It supports both Bluetooth and Slipstream wireless technology, ensuring low latency and reliable connectivity. Ideal for FPS and MMO gamers alike.",
-    "image": "https://images.unsplash.com/photo-1629429407756-446d56f94b52?w=500"
+    "image": "https://i.ibb.co.com/F4FRWqcz/item-7.webp"
   },
   {
     "id": 8,
@@ -129,6 +129,6 @@
     "stock": 22,
     "rating": 4.5,
     "description": "The Anker Soundcore Life Q30 offers hybrid active noise cancellation with multiple modes for indoor, outdoor, and transport use. With up to 40 hours of battery life and rich sound quality, it delivers excellent value for everyday listening and travel.",
-    "image": "https://images.unsplash.com/photo-1618367588411-dc7dbdcbf42b?w=500"
+    "image": "https://i.ibb.co.com/fVChsCVZ/item-12.jpg"
   }
 ]
