@@ -8,7 +8,13 @@ const PORT = 5000;
 const DATA_PATH = path.join(__dirname, "items.json");
 
 // --- MIDDLEWARE ---
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://dev-gear-hub-backend.onrender.com/",
+    methods: ["Get", "Post"],
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 // --- HELPER FUNCTIONS ---
