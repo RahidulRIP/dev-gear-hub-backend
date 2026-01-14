@@ -10,7 +10,7 @@ const DATA_PATH = path.join(__dirname, "items.json");
 // --- MIDDLEWARE ---
 app.use(
   cors({
-    origin: "https://dev-gear-hub-backend.onrender.com/",
+    origin: "*",
     methods: ["Get", "Post"],
     credentials: true,
   })
