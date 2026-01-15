@@ -67,9 +67,9 @@ async function run() {
           .aggregate([
             {
               $group: {
-                _id: "$category", // ক্যাটাগরি অনুযায়ী গ্রুপ করা
-                count: { $sum: 1 }, // প্রতিটি ক্যাটাগরিতে কয়টি আইটেম আছে গোনা
-                image: { $first: "$image" }, // ওই ক্যাটাগরির প্রথম আইটেমের ইমেজ নেওয়া
+                _id: "$category",
+                count: { $sum: 1 },
+                image: { $first: "$image" },
               },
             },
           ])
