@@ -102,7 +102,7 @@
     "id": 10,
     "name": "Logitech G Pro X",
     "price": 129,
-    "category": "Headphone",
+    "category": "Headphone",  
     "brand": "Logitech",
     "stock": 9,
     "rating": 4.6,
